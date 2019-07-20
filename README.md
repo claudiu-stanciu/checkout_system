@@ -1,10 +1,11 @@
 # Checkout system lib
 
-Library for a checkout system, for a basket of produce.
+Checkout system for a shopping cart
 
 ## Functionality
 
 - calculate basket price
+- apply discount promotions per item category
 
 # Support
 
